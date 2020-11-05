@@ -169,12 +169,14 @@ You can enable tab completion (recommended) by opening `Code > Preferences > Set
 
 ### Nuxt Page
 
-| Snippet      | Purpose           |
-| ------------ | ----------------- |
-| `nasyncdata` | Nuxt asyncData    |
-| `nfetch`     | Nuxt Fetch        |
-| `nhead`      | Nuxt Head         |
-| `nparam`     | Nuxt Route Params |
+| Snippet           | Purpose                          |
+| ----------------- | -------------------------------- |
+| `nasyncdata`      | Nuxt asyncData                   |
+| `nasyncdataaxios` | Nuxt asyncData with Axios module |
+| `nfetch`          | Nuxt Fetch                       |
+| `nfetchaxios`     | Nuxt Fetch with Axios module     |
+| `nhead`           | Nuxt Head                        |
+| `nparam`          | Nuxt Route Params                |
 
 ### Extra (plaintext)
 
